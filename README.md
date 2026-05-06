@@ -1,7 +1,7 @@
 # Iterative Mutation-Point Detection and Completion (IDC) 
 **For High-Ratio Outlier Removal in 3D Point Clouds**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxxx)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20046692.svg)](https://doi.org/10.5281/zenodo.20046692)
 
 This repository contains the official MATLAB implementation of the **IDC framework**. The code is provided to enhance the transparency and reproducibility of our research.
 
