@@ -9,19 +9,19 @@ This repository contains the official MATLAB implementation of the **IDC framewo
 This repository contains the official implementation of the following paper:
 
 **Title**: Iterative Mutation-Point Detection and Completion for High-Ratio Outlier Removal in 3D Point Clouds
-**Journal**: *Machine Vision and Applications*
+**Journal**: *Multimedia Systems*
 
 If you find this code or our framework helpful in your research, please consider citing our paper using the following format:
 
 **Plain Text:**
-X. Shen, M. Luo, Q. Wu, S. Xie, B. Chen, and S. Wu, "Iterative Mutation-Point Detection and Completion for High-Ratio Outlier Removal in 3D Point Clouds," *Machine Vision and Applications*, under review, 2026.
+X. Shen, M. Luo, Q. Wu, S. Xie, B. Chen, and S. Wu, "Iterative Mutation-Point Detection and Completion for High-Ratio Outlier Removal in 3D Point Clouds," *Multimedia Systems*, under review, 2026.
 
 **BibTeX:**
 ```bibtex
 @article{shen2026idc,
   title={Iterative Mutation-Point Detection and Completion for High-Ratio Outlier Removal in 3D Point Clouds},
   author={Shen, Xiuqing and Luo, Mingling and Wu, Qi and Xie, Shoulie and Chen, Bin and Wu, Shiqian},
-  journal={Machine Vision and Applications},
+  journal={Multimedia Systems},
   year={2026},
   note={Under review}
 }
